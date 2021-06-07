@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Milk App</string>
+    <string name="milkapp">Milk App</string>
+    <string name="milkAmout">Please select the amount of milk you purchased today</string>
+    <string name="confirmMilk">Please confirm the amount of milk below : </string>
+    <string name="confirmMilk1">  </string>
+    <string name="o5">0.5 litre</string>
+    <string name="o1">1 Litre</string>
+    <string name="o15">1.5 Litre</string>
+    <string name="amount_of_milk">Amount Of Milk</string>
+    <string name="custom_milk">Submit</string>
+    <string name="confirm">Confirm</string>
+    <string name="seeRecord">See Record</string>
+</resources>
